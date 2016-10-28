@@ -1,0 +1,2 @@
+mvn archetype:generate -DgroupId=org.henry -DartifactId=mav -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false -DarchetypeCatalog=local
+mvn eclipse:eclipse -Dwtpversion=2.0 
